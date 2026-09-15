@@ -100,4 +100,4 @@ My repositories also include [a Java bug tracker](https://github.com/kris36dev/B
 
 ---
 
-<p align="center"><b>A question. An experiment. A clearer understanding.</b></p>
+<p align="center"><b>Real eyes, Realize, Real lies.</b></p>
