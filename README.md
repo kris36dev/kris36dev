@@ -99,5 +99,3 @@ Deutsch–Jozsa classification and Simon's hidden-string algorithm, with query a
 My repositories also include [a Java bug tracker](https://github.com/kris36dev/BugTracker---Final-Project-CS) and [a JavaScript capstone project](https://github.com/kris36dev/CS691_CapstoneProject).
 
 ---
-
-<p align="center"><b>Real eyes, Realize, Real lies.</b></p>
